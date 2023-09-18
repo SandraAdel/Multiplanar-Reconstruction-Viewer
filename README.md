@@ -12,5 +12,5 @@
 
 ## Preview
 
-https://github.com/SandraAdel/Multiplanar-Reconstruction-Viewer/assets/81769303/3fbceffa-524b-4db5-8633-e3b4dff921c4
+https://github.com/SandraAdel/Multiplanar-Reconstruction-Viewer/assets/81769303/dfd8b520-c539-4ea5-a2c6-9bf7a39f4861
 
